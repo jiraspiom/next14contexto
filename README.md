@@ -1,9 +1,3 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-## Getting Started
-
-First, run the development server:
-
 ```bash
 npm run dev
 # or
@@ -13,24 +7,67 @@ pnpm dev
 # or
 bun dev
 ```
+![logo_do_projeto](https://i.imgur.com/kkkkkk.png)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# Nome do projeto
+Uma breve descrição do projeto aqui.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🔥 Introdução
+Coloque aqui as instruções e quais são os objetivos deste projeto, funcionalidades.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### ⚙️ Pré-requisitos
+Coloque aqui passo a passo que precisa para instalar o projeto e como instalá-lo.
 
-## Learn More
+```bash
+Aqui pode colocar o código de exemplo
+```
 
-To learn more about Next.js, take a look at the following resources:
+### 🔨 Guia de instalação
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Explique aqui um passo a passo mostrando como deve executar para ter um ambiente de desenvolvimento em execução,
+desde instalar e rodar o projeto.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- Etapas para instalar:
+```
+Codigo, exemplo
+```
+Passo 2:
+```
+Codigo, exemplo
+```
 
-## Deploy on Vercel
+### ⚒️ Executando testes
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### 📦 Tecnologias usadas
+
+* [React JS](https://react.dev/)
+* [TypeScript]()
+
+ou
+
+**Frontend:**
+
+* [React JS](https://react.dev/)
+* [TypeScript](https://typscript.dev/)
+
+**Backend:**
+
+* [NodeJS](https://node.dev/)
+
+### 🙍‍♂️🙍‍♀️ Autores / Colaboradores
+* **nomeautor** - *funcao realizada* - [nome_do_dev](http://github.com) 
+
+### 📝  Licença
+Esse projeto está sob a licença (nome da licença) - acesse os detalhes [LICENCE.md](https://github.com/licence)
+
+### FAQ - pergunta frequentes
+
+#### 💬 pergunta 1
+resposta pergnta 1
+
+
+### 💡 Expressões de gratidão
+* Um agradecimento publicamente.
+* Para suporte, mande um email para email@email.com
+* Link para o seu linkedin [Meu_linkdin](https://linkdin/pessoa)
